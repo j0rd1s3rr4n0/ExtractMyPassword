@@ -1,4 +1,0 @@
-CODES:
-Easy:   Est0EsUn4ClaveAlf4Num3ric4
-Medium: Est0EsUn4ClaveAlf4Num3ric4XORizada
-Hard:   Est0EsUn4ClaveAlf4Num3ric4XORizadaRot13i0fuscada
