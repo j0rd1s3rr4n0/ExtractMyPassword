@@ -42,7 +42,7 @@ El Write Up es un documento detallado que describe tu proceso de ingeniería inv
 1. Descarga los archivos del repositorio.
 2. Realiza el análisis de los ejecutables.
 3. Documenta tu proceso y resultados en un Write Up.
-4. Envía tu Write Up y cualquier contraseña encontrada a [email@email.com].
+4. Envía tu Write Up y cualquier contraseña encontrada al [Formulario](https://forms.gle/1ewBzAFLonxCeXfM8).
 
 ## Notas Importantes
 
