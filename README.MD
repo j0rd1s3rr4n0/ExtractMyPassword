@@ -40,6 +40,10 @@ El Write Up es un documento detallado que describe tu proceso de ingeniería inv
 ¡Participar es fácil!
 
 1. Descarga los archivos del repositorio.
+        -  [Easy.exe](https://github.com/j0rd1s3rr4n0/ExtractMyPassword/raw/main/Compiled/easy.exe)
+        -  [Medium.exe](https://github.com/j0rd1s3rr4n0/ExtractMyPassword/raw/main/Compiled/medium.exe)
+        -  [Hard.exe](https://github.com/j0rd1s3rr4n0/ExtractMyPassword/raw/main/Compiled/hard.exe)
+
 2. Realiza el análisis de los ejecutables.
 3. Documenta tu proceso y resultados en un Write Up.
 4. Envía tu Write Up y cualquier contraseña encontrada al [Formulario](https://forms.gle/1ewBzAFLonxCeXfM8).
